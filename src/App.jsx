@@ -5,13 +5,17 @@ import heroImg from './assets/hero.png'
 import './App.css'
 import Counter from './Counter'
 import ReadMore from './read-more'
+import FavoriteAnimal from './FavoriteAnimal'
+
+
+
 
 function App() {
   
 
   return (
     <div>
-      <ReadMore/>
+      <FavoriteAnimal/>
     </div>
   )
 }
