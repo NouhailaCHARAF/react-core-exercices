@@ -6,7 +6,7 @@ import './App.css'
 import Counter from './Counter'
 import ReadMore from './read-more'
 import FavoriteAnimal from './FavoriteAnimal'
-
+import ColorChanger from './ColorChanger'
 
 
 
@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div>
-      <FavoriteAnimal/>
+      <ColorChanger/>
     </div>
   )
 }
